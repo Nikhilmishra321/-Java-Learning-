@@ -10,6 +10,7 @@ public class Solution2 {
         int side=sc.nextInt();
         int Area=side*side;
         System.out.println("Area of Square: " + Area);
+        sc.close();
 
 
     }
