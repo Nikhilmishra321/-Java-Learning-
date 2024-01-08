@@ -14,6 +14,8 @@ public class Solution1 {
 
         int sum=(A+B+C)/3;
         System.out.println("average is : " +  sum);
+
+        sc.close();
         
 
     }

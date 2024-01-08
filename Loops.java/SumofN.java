@@ -13,6 +13,7 @@ public class SumofN {
 
         }
         System.out.println("sum is :" + sum);
+        sc.close();
     }
     
 }
