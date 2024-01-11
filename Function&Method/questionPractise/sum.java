@@ -2,9 +2,17 @@ import java.util.Scanner;
 
 public class sum {
     public static void main(String[] args) {
-        Sum();
+          // Sum();
+          int ans= sum3(20, 10);
+          System.out.println(ans);
         
         
+    }
+    public static int sum3(int num1, int num2){
+        int sum=num1 + num2;
+        return sum;
+
+
     }
     public static void Sum(){
         Scanner sc= new Scanner(System.in);
