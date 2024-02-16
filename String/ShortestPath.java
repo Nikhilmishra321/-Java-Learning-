@@ -32,5 +32,8 @@ public class ShortestPath {
         System.out.println(getShortestPath(path));
         
     }
+    public static void main(String[] args) {
+        
+    }
     
 }
